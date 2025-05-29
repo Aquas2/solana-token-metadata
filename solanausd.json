@@ -1,0 +1,6 @@
+{
+  "name": "SolanaUSD",
+  "symbol": "SUSD",
+  "description": "A USD-pegged stablecoin backed by SOL on Solana.",
+  "image": "https://raw.githubusercontent.com/Aquas2/solana-token-metadata/refs/heads/main/solana%20usd%203.png"
+}
